@@ -1,4 +1,4 @@
-## VR Startup Company 
+## 🎮 VR Startup Company 
 An SQL Project, part of Codecademy's Analyze Data with SQL Skill Path.
 
 project url: https://www.codecademy.com/paths/analyze-data-with-sql/tracks/analyze-data-sql-join-data/modules/analyze-data-sql-practice-joins/projects/sql-multiple-tables-with-a-vr-startup
